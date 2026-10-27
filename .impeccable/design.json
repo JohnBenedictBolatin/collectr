@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "name": "Collectr / Gallery Ledger",
+  "mode": "operate",
+  "palette": {
+    "ivory": "#F7F3E8",
+    "ink": "#20201E",
+    "teal": "#78C5AA",
+    "orange": "#EC781C",
+    "gold": "#F4A32A"
+  },
+  "type": { "body": "Poppins Variable", "display": "Poppins Variable" },
+  "signature": "A tactile collection ledger pairs a sortable catalog with miniature cabinet previews; item identity, collection membership, and shelf location remain visible together.",
+  "assets": { "mascot": "/images/cole-character-sheet.png" },
+  "source": ".impeccable/mocks/desktop-library-approved.png"
+}
